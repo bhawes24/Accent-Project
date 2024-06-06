@@ -9,4 +9,4 @@ We found that the second method significantly outperformed the first.
 ## Data and Acknowledgments
 Data for this project can be found here: https://www.kaggle.com/datasets/rtatman/speech-accent-archive/data.  
 Weinberger, S. (2013). Speech accent archive. George Mason University.  
-This project was done as part of CS5841 (Machine Learning) at Michigan Technological University in collaboration with Sandeep Chilukuri and Brian Conn.
+This project was done as part of CS5841 (Machine Learning) during the Spring 2024 semester at Michigan Technological University in collaboration with Sandeep Chilukuri and Brian Conn. A PDF of the final poster presentation is included in the files.
